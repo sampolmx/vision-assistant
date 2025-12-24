@@ -84,6 +84,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name or Project Name - [your_email@example.com](mailto:your_email@example.com)
+Your Name or Project Name - [dmdsmart4@gmail.com](mailto:your_email@example.com)
 
 Project Link: [https://github.com/yourusername/ai-visual-assistant](https://github.com/yourusername/ai-visual-assistant)
